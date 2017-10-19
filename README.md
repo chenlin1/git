@@ -41,4 +41,17 @@
 (3). git status 查看状态
 (4). git diff 查看变更的内容 ##
 ![](https://i.imgur.com/VHwWVb3.png) 
-在GitHub刷新可以看到创建dev分支
+## 在GitHub刷新可以看到创建dev分支 ##
+![](https://i.imgur.com/qf55ATe.png)
+## 11.master和dev分支合并
+(1). git branch 查看分支
+(2). git checkout master 切换分支
+(3). git branch 查看分支
+(4). git pull origin dev 拉去分支(因为我的dev分支是正确的，所以拉取是dev而不是master)
+(5). git merge dev (合并分支)
+(6). git push origin master(推送到分支) ##
+![](https://i.imgur.com/6nPVsCc.png)
+## 12.git回退版本号 ##
+![](https://i.imgur.com/jhTQMzA.png)
+## 13.git操作指令 ##
+![](https://i.imgur.com/eiDOliY.jpg)
